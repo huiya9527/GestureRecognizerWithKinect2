@@ -1,0 +1,16 @@
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\bin\Debug\GestureRecognizer.exe.config
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\MainWindow.g.cs
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\App.g.cs
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer_MarkupCompile.cache
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer_MarkupCompile.lref
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\bin\Debug\GestureRecognizer.exe
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\bin\Debug\GestureRecognizer.pdb
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\bin\Debug\Microsoft.Kinect.dll
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\bin\Debug\Microsoft.Kinect.xml
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\MainWindow.baml
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer.g.resources
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer.Properties.Resources.resources
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer.csproj.GenerateResource.Cache
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer.exe
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer.pdb
+D:\MyCodeGit\GestureRecognizerWithKinect2\GestureRecognizer\GestureRecognizer\obj\Debug\GestureRecognizer.csprojResolveAssemblyReference.cache
